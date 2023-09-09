@@ -4,8 +4,8 @@
   My name is Yevhenii and I am a self-taught web developer, who is improving all the time. I'm in love with development, because it's been improving my troubleshooting skills this whole time I've been building things, that help me out in real life A LOT.
 </div>
 
-<br/><a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:michal.osman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<br/><a href="https://www.linkedin.com/in/ydashchenko/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:yevhenii.dashchenko@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Skills
 
