@@ -47,7 +47,7 @@
       />
       <br /><strong>Jest</strong>
     </td>
-        <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg"
         width="48"
@@ -55,6 +55,33 @@
         alt="Git"
       />
       <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-plain.svg"
+        width="48"
+        height="48"
+        alt="NodeJS"
+      />
+      <br /><strong>NodeJS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-plain.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
     </td>
   </tr>
 </table>
