@@ -65,7 +65,7 @@
       />
       <br /><strong>NodeJS</strong>
     </td>
-    <td align="center" style="background-color: white" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original.svg"
         width="48"
