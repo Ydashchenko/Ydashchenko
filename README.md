@@ -92,5 +92,14 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="SASS"
+      />
+      <br /><strong>SASS</strong>
+    </td>
   </tr>
 </table>
